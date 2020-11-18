@@ -14,5 +14,5 @@ See his full setup at [https://www.reddit.com/r/unixporn/comments/j50g3n/xmonad_
 ** NOTE: polybar is not currently working on this system **
 
 ![main](./Pictures/screenshots/scrot_2020-11-17-231523.png?raw=true "Main")
-[!lock](./Pictures/screenshots/scrot_2020-11-17-231540.png?raw=true "Lock")
+![lock](./Pictures/screenshots/scrot_2020-11-17-231540.png?raw=true "Lock")
 
