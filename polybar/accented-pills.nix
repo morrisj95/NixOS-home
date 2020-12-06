@@ -17,7 +17,7 @@ let
 in
   rec {
     "bar/base" = {
-      monitor = "DisplayPort";
+      monitor = "DP-1";
       height = 20;
 
       border-size = 2;
