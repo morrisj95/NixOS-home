@@ -18,6 +18,8 @@ in
   rec {
     "bar/base" = {
       monitor = "DP-1";
+      dpi-x = 138;
+      dpi-y = 138;
       height = 20;
 
       border-size = 2;
