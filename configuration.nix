@@ -37,7 +37,7 @@
   services.xserver = {
     enable = true;
     displayManager.sessionCommands = ''
-      xrandr --output DisplayPort --mode 3840x2160
+      xrandr --output DP-1 --mode 3840x2160
     '';
     desktopManager.session = [
       {
